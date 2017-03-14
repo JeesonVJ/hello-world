@@ -1,0 +1,2 @@
+This is the chapter 1.
+	First things first. We are trying out a git commit to the master branch.
